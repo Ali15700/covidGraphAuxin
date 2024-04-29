@@ -9,6 +9,9 @@ Currently, two official plugins are available:
 
 # Command to RUN the Project
 To install libraries
+
 npm i 
+
 To run the Project
+
 npm run dev
