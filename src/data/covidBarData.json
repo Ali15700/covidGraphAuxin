@@ -1,0 +1,57 @@
+{
+    "Employees": {
+      "Employee": [
+        {
+            "Country": "Bangladesh",
+            "Confirmed": "226225",
+            "Deaths": "2965",
+            "Recovered": "125683",
+            "Active": "97577",
+            "New cases": "2772",
+            "New deaths": "37",
+            "New recovered": "1801",
+            "Deaths / 100 Cases": "1.31",
+            "Recovered / 100 Cases": "55.56",
+            "Deaths / 100 Recovered": "2.36",
+            "Confirmed last week": "207453",
+            "1 week change": "18772",
+            "1 week % increase": "9.05",
+            "WHO Region\r": "South-East Asia\r"
+          },
+        {
+            "Country": "India",
+            "Confirmed": "1480073",
+            "Deaths": "33408",
+            "Recovered": "951166",
+            "Active": "495499",
+            "New cases": "44457",
+            "New deaths": "637",
+            "New recovered": "33598",
+            "Deaths / 100 Cases": "2.26",
+            "Recovered / 100 Cases": "64.26",
+            "Deaths / 100 Recovered": "3.51",
+            "Confirmed last week": "1155338",
+            "1 week change": "324735",
+            "1 week % increase": "28.11",
+            "WHO Region\r": "South-East Asia\r"
+          },
+          {
+            "Country": "US",
+            "Confirmed": "4290259",
+            "Deaths": "148011",
+            "Recovered": "1325804",
+            "Active": "2816444",
+            "New cases": "56336",
+            "New deaths": "1076",
+            "New recovered": "27941",
+            "Deaths / 100 Cases": "3.45",
+            "Recovered / 100 Cases": "30.9",
+            "Deaths / 100 Recovered": "11.16",
+            "Confirmed last week": "3834677",
+            "1 week change": "455582",
+            "1 week % increase": "11.88",
+            "WHO Region\r": "Americas\r"
+          }
+      ]
+    }
+  }
